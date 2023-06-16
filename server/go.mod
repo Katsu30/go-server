@@ -1,4 +1,4 @@
-module go-server
+module github.com/Katsu30/go-server
 
 go 1.20
 

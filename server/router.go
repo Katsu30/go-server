@@ -3,7 +3,7 @@ package main
 import (
   "github.com/labstack/echo"
 
-	"go-server/handler"
+	"github.com/Katsu30/go-server/handler"
 )
 
 func newRouter() *echo.Echo {
